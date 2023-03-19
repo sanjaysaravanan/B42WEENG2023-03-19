@@ -1,0 +1,53 @@
+Topics:
+
+  Hooks:
+    To Access VDOM we use the concept of hooks and manipualte the VDOM
+    in term modifying the actual DOM
+
+    Comparison / **Reconciliation** - VDOM & Real DOM
+
+    Accessing directly the Browser's document will cause the large set of operations in Browser sometimes. This will load heavily on browser
+
+    So,
+    Note: Strictly Do Not use document.* in react application, You should only hooks to manipulate DOM
+
+  <></> --> wrapper which does produce parent tag
+
+  Stateful and stateless( Pure Component ) components
+
+  Inline Styling - Object like CSS
+  Module CSS - https://create-react-app.dev/docs/adding-a-css-modules-stylesheet/
+    to avoid the inherited css ( from parent css ) overriding the component css
+
+  onChange:
+  submit
+    Task: Color List Using useState();
+     Create an input text to enter color and submit.
+     Once Submit is called add the color to the list of colors
+
+
+  Course Enrollment List  
+    Enroll Button
+    If it is then Leave Btn should appear
+
+  React - Deploying to Netlify:
+    1. Commit all the code and push to Github
+
+
+Intro to Theme,
+
+  Create an application like below,
+    with Option for the following,
+      1. Add a New Movie
+      2. Edit a Movie
+      3. Delete a Movie
+      4. Like, Dislike
+
+      https://goofy-panini-9ed122.netlify.app/
+
+
+Complete Alteast 1 Task and start the other One: else late submission
+  1. Price Table --> https://startbootstrap.com/snippets/pricing-table
+  2. https://startbootstrap.com/previews/shop-homepage 
+
+      

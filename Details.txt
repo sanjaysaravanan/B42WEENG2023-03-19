@@ -9,9 +9,9 @@ Topics:
     Accessing directly the Browser's document will cause the large set of operations in Browser sometimes. This will load heavily on browser
 
     So,
-    Note: Strictly Do Not use document.* in react application, You should only hooks to manipulate DOM
+    Note: Strictly Do Not use document.* in react application, You should only use hooks to manipulate DOM
 
-  <></> --> wrapper which does produce parent tag
+  <></> --> wrapper which does produce parent tag will not appear in actual DOM
 
   Stateful and stateless( Pure Component ) components
 

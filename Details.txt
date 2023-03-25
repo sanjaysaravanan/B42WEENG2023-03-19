@@ -24,15 +24,12 @@ Topics:
     Task: Color List Using useState();
      Create an input text to enter color and submit.
      Once Submit is called add the color to the list of colors
-
-
+  
+  React - Deploying to Netlify:
+    1. Commit all the code and push to Github
   Course Enrollment List  
     Enroll Button
     If it is then Leave Btn should appear
-
-  React - Deploying to Netlify:
-    1. Commit all the code and push to Github
-
 
 Next Session:
 Intro to Theme,

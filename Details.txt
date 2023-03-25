@@ -34,6 +34,7 @@ Topics:
     1. Commit all the code and push to Github
 
 
+Next Session:
 Intro to Theme,
 
   Create an application like below,
